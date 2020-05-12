@@ -2,3 +2,6 @@ roses are red
 violets are blue
 lovely to see
 all of you
+
+new line here
+for the sake of learning
